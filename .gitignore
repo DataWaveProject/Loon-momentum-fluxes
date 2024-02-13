@@ -1,8 +1,6 @@
 __pycache__
 .DS_Store
 *feather* 
-*.png
-*.pdf
 .ipynb_checkpoints
 README_dataset*
 README_code.docx
